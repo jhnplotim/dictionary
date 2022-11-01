@@ -3,8 +3,8 @@
 A Jetpack [Compose][compose_ref] Dictionary Android App (With Caching) using a [clean architecture][clean_arc_ref]
 
 ## Key Features
-- [Retrofit] [retrofit_ref] is used for Networking
-- [Hilt] [hilt_ref] is used for Dependency Injection
+- [Retrofit][retrofit_ref] is used for Networking
+- [Hilt][hilt_ref] is used for Dependency Injection
 - Offline caching is implemented using [Room][room_ref] as a single source of truth
 - **Search functionality** powered by _Kotlin Flows_
 - The [Free Dictionary API][dict_api_ref] is used as the backing source for words in the app
