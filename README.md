@@ -1,4 +1,4 @@
-# StockMarketApp
+# DictionaryApp
 
 A Jetpack [Compose][compose_ref] Dictionary Android App (With Caching) using a [clean architecture][clean_arc_ref]
 
