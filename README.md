@@ -20,7 +20,9 @@ A Jetpack [Compose][compose_ref] Dictionary Android App (With Caching) using a [
 
 ### Demo video
 
-https://user-images.githubusercontent.com/3297681/199216931-55559ede-b6d5-4716-901d-17f2ecef6593.mov
+
+https://user-images.githubusercontent.com/3297681/199222949-5ecbca30-bc6b-41b5-a1f2-20b14dc23efe.mov
+
 
 
 ## Git Branches
